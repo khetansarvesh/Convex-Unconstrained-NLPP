@@ -11,14 +11,14 @@ Here we will see different algorithms to solve an unconstrained non linear progr
     b. Indirect Region Elimination Methods
       1. Bisection Algorithm
 3. Descent Algorithms
-  1. Indirect Descent Algorithms
+  a. Indirect Descent Algorithms
     1. Gradient Descent
     2. Momentum Based Gradient Descent
     3. Nesterov Gradient Descent (NAV)
     4. Adaptive Gradient Descent (ADAGRAD)
     5. ADADELTA Algorithm
     6. Adaptive Moments (ADAM) Algorithm
-  2. Direct Descent Algorithms
+  b. Direct Descent Algorithms
     1. Newton Raphson Algorithm
     2. Coordinate Descent Algorithm
     3. Hooke and Jeeves
