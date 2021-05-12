@@ -15,7 +15,7 @@ These methods are used to calculate approximate value of the minima.But why woul
 ###    1. Region Elimination Algorithms
 
 ####      a. Direct Region Elimination Methods
-#####        1. Dichotomous Search Algorithm
+        1. Dichotomous Search Algorithm
             Theory:
             Code:
             
@@ -40,12 +40,12 @@ These methods are used to calculate approximate value of the minima.But why woul
 
 ####      a. Indirect Descent Algorithms
         1. Gradient Descent (GD) Algorithm
-            Refer Following Link for Theory :
-            Refer Following Link for Code :
+            Theory :
+            Code :
             
         2. Momentum Based Gradient Descent Algorithm
-            Refer Following Link for Theory :
-            Refer Following Link for Code :
+            Theory :
+            Code :
             
         3. Nesterov Gradient Descent (NAG) Algorithm:
         4. Adaptive Gradient Descent (ADAGRAD) Algorithm:
@@ -54,9 +54,14 @@ These methods are used to calculate approximate value of the minima.But why woul
 
 ####      b. Direct Descent Algorithms
         1. Newton Raphson Algorithm
+            Theory:
+            
         2. Coordinate Descent Algorithm
+            Theory:
+            
         3. Hooke and Jeeves
-        4. 
+            Theory:
+        
 
 ###    3. Interpolation Algorithms
 
