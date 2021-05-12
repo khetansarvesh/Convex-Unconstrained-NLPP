@@ -44,7 +44,7 @@ Algorithms which uses derivative of the function to shortening the potential sea
 ##    2. Descent Algorithms
 
 ###      a. Indirect Descent Algorithms
-        1. Gradient Descent (GD) Algorithm
+        1. Gradient Descent (GD) Algorithm / Steepest Gradient Descent Algorithm
 ######            Theory :
 ######            Code :
             
