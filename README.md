@@ -69,12 +69,13 @@ Algorithms which uses derivative of the function to shortening the potential sea
         3. Hooke and Jeeves Algorithm
 ######            Theory:
 ######            Code:     
-        4. Simplex Algorithm
-        5. 
 
-##    3. Interpolation Algorithms
+##    3. Evolutionary Algorithms
 
-##    4. Evolutionary Algorithms
-
-      1. Genetic Algorithm
-      2.  
+      1. Genetic Algorithm (GA)
+###### Theory :
+###### Code :
+      2. Particle Swarm Optimization (PSO) Algorithm
+      3. Ant Colony Optimization (ACO) Algorithm
+      4. Differential Evolution (DE) Algorithm
+      5. Memetic Algorithm (MA)  
