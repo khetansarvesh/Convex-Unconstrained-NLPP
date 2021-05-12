@@ -12,7 +12,7 @@ These methods are used to calculate exact value of the minima.
 ##   Numerical Methods :-
 These methods are used to calculate approximate value of the minima.But why would one want to calculate approimate solution if already methods to calculate exact solutions are availabe?? because the computation time complexity to calculate exact solution is very high and hence we need to do a trade off between preciseness of solution and time complexity and we have several algorithms which reduces the time complexity to a great extent for just a negligible amount of variation from exact solution.
 
-    1. Region Elimination Methods
+###    1. Region Elimination Methods
 
       a. Direct Region Elimination Methods
         1. Dichotomous Search Algorithm
@@ -23,15 +23,19 @@ These methods are used to calculate approximate value of the minima.But why woul
       b. Indirect Region Elimination Methods
         1. Bisection Algorithm
 
-    2. Descent Algorithms
+###    2. Descent Algorithms
 
       a. Indirect Descent Algorithms
         1. Gradient Descent
-        2. Momentum Based Gradient Descent
-        3. Nesterov Gradient Descent (NAV)
-        4. Adaptive Gradient Descent (ADAGRAD)
-        5. ADADELTA Algorithm
-        6. Adaptive Moments (ADAM) Algorithm
+            Refer Following Link for Theory :
+            Refer Following Link for Code :
+        3. Momentum Based Gradient Descent
+            Refer Following Link for Theory :
+            Refer Following Link for Code :
+        5. Nesterov Gradient Descent (NAV)
+        6. Adaptive Gradient Descent (ADAGRAD)
+        7. ADADELTA Algorithm
+        8. Adaptive Moments (ADAM) Algorithm
 
       b. Direct Descent Algorithms
         1. Newton Raphson Algorithm
@@ -39,9 +43,9 @@ These methods are used to calculate approximate value of the minima.But why woul
         3. Hooke and Jeeves
         4. 
 
-    3. Interpolation Algorithms
+###    3. Interpolation Algorithms
 
-    4. Evolutionary Algorithms
+###    4. Evolutionary Algorithms
 
       1. Genetic Algorithm
       2.  
