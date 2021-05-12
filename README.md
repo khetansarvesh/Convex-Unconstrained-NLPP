@@ -5,11 +5,11 @@ Once we have understood what a convex function looks like, we know that convex f
 
 unconstrained non linear programming problem abbreviated ad NLPP and in other words also called unconstrained non linear optimization problem if the given function is convex  
 
-##   Analytical Methods :- 
+#   Analytical Methods :- 
 These methods are used to calculate exact value of the minima.
 
     1. Differentiation Method
-##   Numerical Methods :-
+#   Numerical Methods :-
 These methods are used to calculate approximate value of the minima.But why would one want to calculate approimate solution if already methods to calculate exact solutions are availabe?? because the computation time complexity to calculate exact solution is very high and hence we need to do a trade off between preciseness of solution and time complexity and we have several algorithms which reduces the time complexity to a great extent for just a negligible amount of variation from exact solution.
 
 ##       1. Region Elimination Algorithms
@@ -36,7 +36,7 @@ These methods are used to calculate approximate value of the minima.But why woul
             Theory:
             Code:
 
-###    2. Descent Algorithms
+##    2. Descent Algorithms
 
 ####      a. Indirect Descent Algorithms
         1. Gradient Descent (GD) Algorithm
@@ -63,9 +63,9 @@ These methods are used to calculate approximate value of the minima.But why woul
             Theory:
         
 
-###    3. Interpolation Algorithms
+##    3. Interpolation Algorithms
 
-###    4. Evolutionary Algorithms
+##    4. Evolutionary Algorithms
 
       1. Genetic Algorithm
       2.  
