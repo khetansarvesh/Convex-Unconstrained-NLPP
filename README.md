@@ -13,8 +13,11 @@ These methods are used to calculate exact value of the minima.
 These methods are used to calculate approximate value of the minima.But why would one want to calculate approimate solution if already methods to calculate exact solutions are availabe?? because the computation time complexity to calculate exact solution is very high and hence we need to do a trade off between preciseness of solution and time complexity and we have several algorithms which reduces the time complexity to a great extent for just a negligible amount of variation from exact solution.
 
 ##       1. Region Elimination Algorithms
+Algorithms which tries to find out the global minima but shortening the potential search space in every iteration fall under this category.These algorithms can only be used to find global minima of 2 variable functions
 
 ###      a. Direct Region Elimination Algorithms
+Algorithms which does not uses derivative of the function to shortening the potential search space in every iteration fall under this category.
+
         1. Dichotomous Search Algorithm
 ######           Theory :- https://drive.google.com/file/d/1UuPNCrBXDRz7uVmc5nu1KhcbwCKYLVdQ/view?usp=sharing
 ######           Code: https://colab.research.google.com/drive/12Y7ERCyYNIZ4vWfrIFmIO0PCU4mQno_n?usp=sharing
@@ -32,9 +35,11 @@ These methods are used to calculate approximate value of the minima.But why woul
 ######            Code: https://colab.research.google.com/drive/1mdeBSy1GcJS9Df6eEma6Q5oXzmuEcKt4?usp=sharing
 
 ###      b. Indirect Region Elimination Algorithms
+Algorithms which uses derivative of the function to shortening the potential search space in every iteration fall under this category.
+
         1. Bisection Algorithm
-######            Theory:
-######            Code:
+######            Theory: https://drive.google.com/file/d/1WqyteEQ9YOlAjRCrcrcg3P4m3TGq8B73/view?usp=sharing
+######            Code: https://colab.research.google.com/drive/11pf1iqDGG-6U3aDPylxftSXYdd345kWl?usp=sharing
 
 ##    2. Descent Algorithms
 
@@ -54,14 +59,18 @@ These methods are used to calculate approximate value of the minima.But why woul
 
 ###      b. Direct Descent Algorithms
         1. Newton Raphson Algorithm
-            Theory:
-            
+######            Theory:
+######            Code:
+
         2. Coordinate Descent Algorithm
-            Theory:
-            
-        3. Hooke and Jeeves
-            Theory:
-        
+######            Theory:
+######            Code:
+
+        3. Hooke and Jeeves Algorithm
+######            Theory:
+######            Code:     
+        4. Simplex Algorithm
+        5. 
 
 ##    3. Interpolation Algorithms
 
