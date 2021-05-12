@@ -16,7 +16,7 @@ These methods are used to calculate approximate value of the minima.But why woul
 
 ###      a. Direct Region Elimination Algorithms
         1. Dichotomous Search Algorithm
-######            Theory :- https://drive.google.com/file/d/1UuPNCrBXDRz7uVmc5nu1KhcbwCKYLVdQ/view?usp=sharing
+######            Theory :- [Link](https://drive.google.com/file/d/1UuPNCrBXDRz7uVmc5nu1KhcbwCKYLVdQ/view?usp=sharing)
 ######            Code: https://colab.research.google.com/drive/12Y7ERCyYNIZ4vWfrIFmIO0PCU4mQno_n?usp=sharing
             
         2. Fibonacci Search Algorithm
