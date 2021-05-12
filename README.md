@@ -33,19 +33,19 @@ These methods are used to calculate approximate value of the minima.But why woul
 
 ###      b. Indirect Region Elimination Algorithms
         1. Bisection Algorithm
-            Theory:
-            Code:
+######            Theory:
+######            Code:
 
 ##    2. Descent Algorithms
 
 ###      a. Indirect Descent Algorithms
         1. Gradient Descent (GD) Algorithm
-            Theory :
-            Code :
+######            Theory :
+######            Code :
             
         2. Momentum Based Gradient Descent Algorithm
-            Theory :
-            Code :
+######            Theory :
+######            Code :
             
         3. Nesterov Gradient Descent (NAG) Algorithm:
         4. Adaptive Gradient Descent (ADAGRAD) Algorithm:
