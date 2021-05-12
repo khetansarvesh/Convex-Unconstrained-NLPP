@@ -34,7 +34,7 @@ Algorithms which does not uses derivative of the function to shortening the pote
 ######            Theory: https://drive.google.com/file/d/1YhEd8x6Q-FCzntoh8HbPD7tA8NjzyESo/view?usp=sharing
 ######            Code: https://colab.research.google.com/drive/1mdeBSy1GcJS9Df6eEma6Q5oXzmuEcKt4?usp=sharing
 
-###      ------------------------------------------InDirect Region Elimination Algorithms------------------------------------------
+###      ----------------------------------------InDirect Region Elimination Algorithms-----------------------------------------
 Algorithms which uses derivative of the function to shortening the potential search space in every iteration fall under this category.Following algorithms falls under this category.
 
         1. Bisection Algorithm
