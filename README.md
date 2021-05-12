@@ -67,8 +67,8 @@ Algorithms which uses derivative of the function to shortening the potential sea
 ######            Code: https://colab.research.google.com/drive/1BjfaxxWBI-B1c9tAEngOinnnqNxopZsR?usp=sharing
 
         3. Hooke and Jeeves Algorithm
-######            Theory:
-######            Code:     
+######            Theory: https://drive.google.com/file/d/140BhvvCtg6fRtnqzsRjJBAE3_ImpJzHJ/view?usp=sharing
+######            Code: https://colab.research.google.com/drive/1Dqg5jvbn_4ppmtEpNdi6VR09NnrDnoT3?usp=sharing     
 
 ##    3. Evolutionary Algorithms
 
