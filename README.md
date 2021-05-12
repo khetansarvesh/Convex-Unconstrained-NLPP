@@ -1,7 +1,8 @@
 # Convex-Unconstrained-NLPP
 Here we will see different algorithms to solve an unconstrained non linear programming problem abbreviated ad NLPP and in other words also called unconstrained non linear optimization problem if the given function is convex
 
-#A. Analytical Methods #:- methods which are used to calculate exact value of the minima comes under analytical methods
+#   A. Analytical Methods :- 
+methods which are used to calculate exact value of the minima comes under analytical methods
 
     1. Differentiation Method
 #B. Numerical Methods
