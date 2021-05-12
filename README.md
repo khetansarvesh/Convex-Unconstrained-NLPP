@@ -15,7 +15,7 @@ These methods are used to calculate approximate value of the minima.But why woul
 ##       1. Region Elimination Algorithms
 Algorithms which tries to find out the global minima but shortening the potential search space in every iteration fall under this category.These algorithms can only be used to find global minima of 2 variable functions.Algorithms under this category can be further put under following buckets.
 
-###      --------------------------------------Direct Region Elimination Algorithms---------------------------------
+###      ----------------------------------------------Direct Region Elimination Algorithms---------------------------------------------
 Algorithms which does not uses derivative of the function to shortening the potential search space in every iteration fall under this category.
 
         1. Dichotomous Search Algorithm
