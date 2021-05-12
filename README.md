@@ -14,7 +14,7 @@ These methods are used to calculate approximate value of the minima.But why woul
 
 ###    1. Region Elimination Algorithms
 
-####      a. Direct Region Elimination Methods
+####      a. Direct Region Elimination Algorithms
         1. Dichotomous Search Algorithm
             Theory:
             Code:
@@ -31,7 +31,7 @@ These methods are used to calculate approximate value of the minima.But why woul
             Theory:
             Code:
 
-####      b. Indirect Region Elimination Methods
+####      b. Indirect Region Elimination Algorithms
         1. Bisection Algorithm
             Theory:
             Code:
