@@ -3,6 +3,7 @@ Here we will see different algorithms to solve an unconstrained non linear progr
 
 1. Differentiation Method
 2. Region Elimination Methods
+
     a. Direct Region Elimination Methods
       1. Dichotomous Search Algorithm
       2. Fibonacci Search Algorithm
@@ -11,6 +12,7 @@ Here we will see different algorithms to solve an unconstrained non linear progr
     b. Indirect Region Elimination Methods
       1. Bisection Algorithm
 3. Descent Algorithms
+
   a. Indirect Descent Algorithms
     1. Gradient Descent
     2. Momentum Based Gradient Descent
