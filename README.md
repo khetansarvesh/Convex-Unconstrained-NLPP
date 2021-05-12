@@ -13,9 +13,9 @@ These methods are used to calculate exact value of the minima.
 These methods are used to calculate approximate value of the minima.But why would one want to calculate approimate solution if already methods to calculate exact solutions are availabe?? because the computation time complexity to calculate exact solution is very high and hence we need to do a trade off between preciseness of solution and time complexity and we have several algorithms which reduces the time complexity to a great extent for just a negligible amount of variation from exact solution.
 
 ##       1. Region Elimination Algorithms
-Algorithms which tries to find out the global minima but shortening the potential search space in every iteration fall under this category.These algorithms can only be used to find global minima of 2 variable functions
+Algorithms which tries to find out the global minima but shortening the potential search space in every iteration fall under this category.These algorithms can only be used to find global minima of 2 variable functions.Algorithms under this category can be further put under following buckets.
 
-###      a. Direct Region Elimination Algorithms:- Algorithms which does not uses derivative of the function to shortening the potential search space in every iteration fall under this category.
+###      --------------------------------------a. Direct Region Elimination Algorithms--------------------------------- Algorithms which does not uses derivative of the function to shortening the potential search space in every iteration fall under this category.
 
         1. Dichotomous Search Algorithm
 ######           Theory :- https://drive.google.com/file/d/1UuPNCrBXDRz7uVmc5nu1KhcbwCKYLVdQ/view?usp=sharing
