@@ -31,14 +31,14 @@ These methods are used to calculate approximate value of the minima.But why woul
 ######            Theory: https://drive.google.com/file/d/1YhEd8x6Q-FCzntoh8HbPD7tA8NjzyESo/view?usp=sharing
 ######            Code: https://colab.research.google.com/drive/1mdeBSy1GcJS9Df6eEma6Q5oXzmuEcKt4?usp=sharing
 
-####      b. Indirect Region Elimination Algorithms
+###      b. Indirect Region Elimination Algorithms
         1. Bisection Algorithm
             Theory:
             Code:
 
 ##    2. Descent Algorithms
 
-####      a. Indirect Descent Algorithms
+###      a. Indirect Descent Algorithms
         1. Gradient Descent (GD) Algorithm
             Theory :
             Code :
@@ -52,7 +52,7 @@ These methods are used to calculate approximate value of the minima.But why woul
         5. ADADELTA Algorithm
         6. Adaptive Moments (ADAM) Algorithm
 
-####      b. Direct Descent Algorithms
+###      b. Direct Descent Algorithms
         1. Newton Raphson Algorithm
             Theory:
             
