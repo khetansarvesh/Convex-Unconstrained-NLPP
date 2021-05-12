@@ -17,19 +17,19 @@ These methods are used to calculate approximate value of the minima.But why woul
 ####      a. Direct Region Elimination Algorithms
         1. Dichotomous Search Algorithm
 ######            Theory :- https://drive.google.com/file/d/1UuPNCrBXDRz7uVmc5nu1KhcbwCKYLVdQ/view?usp=sharing
-            Code: https://colab.research.google.com/drive/12Y7ERCyYNIZ4vWfrIFmIO0PCU4mQno_n?usp=sharing
+######            Code: https://colab.research.google.com/drive/12Y7ERCyYNIZ4vWfrIFmIO0PCU4mQno_n?usp=sharing
             
         2. Fibonacci Search Algorithm
-            Theory: https://drive.google.com/file/d/1ktiZ821HqllmErNE8GGIzGUICW87w8y7/view?usp=sharing
-            Code: https://colab.research.google.com/drive/1eQghTkrbDcnb8hjnxFlErCOxOsERlvXr?usp=sharing
+######            Theory: https://drive.google.com/file/d/1ktiZ821HqllmErNE8GGIzGUICW87w8y7/view?usp=sharing
+######            Code: https://colab.research.google.com/drive/1eQghTkrbDcnb8hjnxFlErCOxOsERlvXr?usp=sharing
             
         3. Golden Section Search Algorithm
-            Theory: https://drive.google.com/file/d/1MNLNWqbPP_GREX_VzhecWMaeq3bgJ4Kd/view?usp=sharing
-            Code: https://colab.research.google.com/drive/1ALxO0jylw4QISjqLRHAQhdzdl-R7S1JP?usp=sharing
+######            Theory: https://drive.google.com/file/d/1MNLNWqbPP_GREX_VzhecWMaeq3bgJ4Kd/view?usp=sharing
+######            Code: https://colab.research.google.com/drive/1ALxO0jylw4QISjqLRHAQhdzdl-R7S1JP?usp=sharing
             
         4. Interval Halving Algorithm
-            Theory: https://drive.google.com/file/d/1YhEd8x6Q-FCzntoh8HbPD7tA8NjzyESo/view?usp=sharing
-            Code: https://colab.research.google.com/drive/1mdeBSy1GcJS9Df6eEma6Q5oXzmuEcKt4?usp=sharing
+######            Theory: https://drive.google.com/file/d/1YhEd8x6Q-FCzntoh8HbPD7tA8NjzyESo/view?usp=sharing
+######            Code: https://colab.research.google.com/drive/1mdeBSy1GcJS9Df6eEma6Q5oXzmuEcKt4?usp=sharing
 
 ####      b. Indirect Region Elimination Algorithms
         1. Bisection Algorithm
