@@ -63,8 +63,8 @@ Algorithms which uses derivative of the function to shortening the potential sea
 ######            Code:
 
         2. Coordinate Descent Algorithm
-######            Theory:
-######            Code:
+######            Theory: https://drive.google.com/file/d/1oD_UmiUzcD40PCzA8WcPNPz4vrCAT7KF/view?usp=sharing
+######            Code: https://colab.research.google.com/drive/1BjfaxxWBI-B1c9tAEngOinnnqNxopZsR?usp=sharing
 
         3. Hooke and Jeeves Algorithm
 ######            Theory:
