@@ -77,7 +77,7 @@ Algorithms which uses derivative of the function to shortening the potential sea
 
       1. Genetic Algorithm (GA)
 ###### Theory :-
-###### Code :-
+###### Code :- https://github.com/khetansarvesh/Emotion_Detection
       2. Particle Swarm Optimization (PSO) Algorithm
       3. Ant Colony Optimization (ACO) Algorithm
       4. Differential Evolution (DE) Algorithm
