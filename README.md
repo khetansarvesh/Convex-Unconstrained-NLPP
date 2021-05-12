@@ -7,14 +7,14 @@ a. Analytical Methods
 
     2. Region Elimination Methods
 
-        a. Direct Region Elimination Methods
-          1. Dichotomous Search Algorithm
-          2. Fibonacci Search Algorithm
-          3. Golden Section Algorithm
-          4. Interval Halving Algorithm
+            a. Direct Region Elimination Methods
+              1. Dichotomous Search Algorithm
+              2. Fibonacci Search Algorithm
+              3. Golden Section Algorithm
+              4. Interval Halving Algorithm
 
-        b. Indirect Region Elimination Methods
-          1. Bisection Algorithm
+            b. Indirect Region Elimination Methods
+              1. Bisection Algorithm
 
     3. Descent Algorithms
 
