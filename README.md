@@ -62,6 +62,9 @@ Algorithms which uses derivative of the function to shortening the potential sea
         5. Adaptive Gradient Descent (ADAGRAD) Algorithm:
         6. ADADELTA Algorithm
         7. Adaptive Moments (ADAM) Algorithm
+        8. Conjugate Descent Algorithm
+        9. Quasi Newton Algorithm
+        10.Broyden Fletcher Goldfarb Shanno (BFGS) Algorithm
 
 ###      ---------------------------------------------Direct Descent Algorithms---------------------------------------------
         1. Newton Raphson Algorithm
