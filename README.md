@@ -76,7 +76,7 @@ Algorithms which uses derivative of the function to shortening the potential sea
 ##    3. Evolutionary Algorithms
 
       1. Genetic Algorithm (GA)
-Best way to learn and understand this algorithm is via application and hence we will understand this algorithm via an application of selecting best feature subset for a classification problem (i.e. facial recognision).
+Best way to learn and understand this algorithm is via application and hence we will understand this algorithm via an application of selecting best feature subset for a classification problem (i.e. emotion detection).
 
 ###### Theory :- https://drive.google.com/file/d/1RQQl3aoEHZ8LYk0RwdGr5QLLnpA4xi6w/view?usp=sharing
 ###### Code :- https://github.com/khetansarvesh/Emotion_Detection
