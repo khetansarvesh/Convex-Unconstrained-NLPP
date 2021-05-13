@@ -49,15 +49,19 @@ Algorithms which uses derivative of the function to shortening the potential sea
         1. Gradient Descent (GD) Algorithm / Steepest Gradient Descent Algorithm
 ######            Theory :-
 ######            Code :-
-            
-        2. Momentum Based Gradient Descent Algorithm
+       
+        2. Newton's Algorithm
+######            Theory :-
+######            Code :-
+
+        3. Momentum Based Gradient Descent Algorithm
 ######            Theory :-
 ######            Code :-
             
-        3. Nesterov Gradient Descent (NAG) Algorithm:
-        4. Adaptive Gradient Descent (ADAGRAD) Algorithm:
-        5. ADADELTA Algorithm
-        6. Adaptive Moments (ADAM) Algorithm
+        4. Nesterov Gradient Descent (NAG) Algorithm:
+        5. Adaptive Gradient Descent (ADAGRAD) Algorithm:
+        6. ADADELTA Algorithm
+        7. Adaptive Moments (ADAM) Algorithm
 
 ###      ---------------------------------------------Direct Descent Algorithms---------------------------------------------
         1. Newton Raphson Algorithm
