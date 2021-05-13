@@ -56,7 +56,7 @@ Algorithms which uses derivative of the function to shortening the potential sea
 
         3. Momentum Based Gradient Descent Algorithm
 ######            Theory :-
-######            Code :-
+######            Code :- https://colab.research.google.com/drive/1o4TGqXhjBSsmk1tSiSNvzsFXaLavrvxN?usp=sharing
             
         4. Nesterov Gradient Descent (NAG) Algorithm:
         5. Adaptive Gradient Descent (ADAGRAD) Algorithm:
