@@ -62,8 +62,8 @@ Algorithms which uses derivative of the function to shortening the potential sea
 
 ###      ---------------------------------------------Direct Descent Algorithms---------------------------------------------
         1. Newton Raphson Algorithm
-######            Theory:-
-######            Code:-
+######            Theory:- https://docs.google.com/document/d/1nV2twz6lwvQmffbdMT2mbbLEoNBp7kSumMl4z6UzdH4/edit?usp=sharing
+######            Code:- https://colab.research.google.com/drive/1Tbyv5U-uW0EAITd8wKb0i9BVZv_ssFhF?usp=sharing
 
         2. Coordinate Descent Algorithm
 ######            Theory :- https://drive.google.com/file/d/1oD_UmiUzcD40PCzA8WcPNPz4vrCAT7KF/view?usp=sharing
