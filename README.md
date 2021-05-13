@@ -51,8 +51,8 @@ Algorithms which uses derivative of the function to shortening the potential sea
 ######            Code :-
        
         2. Newton's Algorithm
-######            Theory :-
-######            Code :-
+######            Theory :- https://docs.google.com/document/d/1QqcYbOadzfaD5MatsE4U6sWhrmhI7yvTPEggOZr5peo/edit?usp=sharing
+######            Code :- https://colab.research.google.com/drive/1ChzKcaRIZc_F_Ih2-RQEh6jULSMwTr5h?usp=sharing
 
         3. Momentum Based Gradient Descent Algorithm
 ######            Theory :-
