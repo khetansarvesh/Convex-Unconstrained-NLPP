@@ -9,7 +9,7 @@ unconstrained non linear programming problem abbreviated ad NLPP and in other wo
 These methods are used to calculate exact value of the minima.
 
     1. Differentiation Method
-######           Theory :-
+######           Theory :- https://drive.google.com/file/d/1-EWtdjTwej9c8NmjftYiCUIe2IlZUqrf/view?usp=sharing
 
 #   Numerical Methods :-
 These methods are used to calculate approximate value of the minima.But why would one want to calculate approimate solution if already methods to calculate exact solutions are availabe?? because the computation time complexity to calculate exact solution is very high and hence we need to do a trade off between preciseness of solution and time complexity and we have several algorithms which reduces the time complexity to a great extent for just a negligible amount of variation from exact solution.
