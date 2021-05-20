@@ -36,7 +36,7 @@ Algorithms which does not uses derivative of the function to shortening the pote
 ######            Theory :- https://drive.google.com/file/d/1YhEd8x6Q-FCzntoh8HbPD7tA8NjzyESo/view?usp=sharing
 ######            Code :- https://colab.research.google.com/drive/1mdeBSy1GcJS9Df6eEma6Q5oXzmuEcKt4?usp=sharing
 
-###      --------------------------------InDirect Region Elimination Algorithms------------------------------
+###      --------------------------------InDirect Region Elimination Algorithms----------------------------
 Algorithms which uses derivative of the function to shortening the potential search space in every iteration fall under this category.Following algorithms falls under this category.
 
         1. Bisection Algorithm
@@ -45,7 +45,7 @@ Algorithms which uses derivative of the function to shortening the potential sea
 
 ##    2. Descent Algorithms
 
-###      --------------------------------InDirect Descent Algorithms------------------------------------------
+###      --------------------------------InDirect Descent Algorithms----------------------------------------
         1. Gradient Descent (GD) Algorithm / Steepest Gradient Descent Algorithm
 ######            Theory :-
 ######            Code :- https://colab.research.google.com/drive/1ZrSfB41A9nCxq-k17kUlUFho66-PZBB-?usp=sharing
@@ -66,7 +66,7 @@ Algorithms which uses derivative of the function to shortening the potential sea
         9. Quasi Newton Algorithm
         10.Broyden Fletcher Goldfarb Shanno (BFGS) Algorithm
 
-###      ---------------------------------Direct Descent Algorithms-------------------------------------------
+###      ---------------------------------Direct Descent Algorithms-----------------------------------------
         1. Newton Raphson Algorithm
 ######            Theory:- https://docs.google.com/document/d/1nV2twz6lwvQmffbdMT2mbbLEoNBp7kSumMl4z6UzdH4/edit?usp=sharing
 ######            Code:- https://colab.research.google.com/drive/1Tbyv5U-uW0EAITd8wKb0i9BVZv_ssFhF?usp=sharing
