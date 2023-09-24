@@ -1,5 +1,5 @@
 # Convex-Unconstrained-NonLinear-Optimization-Algorithms
-To understand what exactly a convex function looks like refer to my notes at the following link :- https://drive.google.com/drive/folders/1cvmy0PdoP3-5sBN_LfmJ_KA_LYmVlehx?usp=sharing
+To understand what exactly a convex function looks like refer to my notes at the following link :- [https://drive.google.com/drive/folders/1cvmy0PdoP3-5sBN_LfmJ_KA_LYmVlehx?usp=sharing](https://drive.google.com/drive/folders/1fWxVLGycTA-reUqda7Sd9JPHACg7N9Tb?usp=sharing)
 
 Once we have understood what a convex function looks like, we know that convex functions has a single global minima and hence now our aim is to find this global minima.Hence the word optimization comes into picture because we are dealing with a minimization problem.Now we have got hold of terms convex and optimization, unconstrined means there are no conditions imposed on the domain of the convex function and non linear means the convex function is some non linear function and not a linear function.There are several algorithms to solve this problem, a comprehensive list of state of the art algorithms have been listed below for reference but only few has been explained in complete detail.
 
